@@ -1,4 +1,4 @@
-u# Hi, I'm Mithra 👋
+# Hi, I'm Mithra 👋
 
 🎓 Engineering Student | ☁️ Cloud Computing Intern  
 🏅 Certified AWS Cloud Practitioner  
@@ -45,8 +45,13 @@ https://github.com/Mithra-V/azure-ubuntu-vm-rdp-gui
 - Gained practical exposure to applying Python concepts in a structured learning environment.
 ---
 
-## 🎯 Certifications
-- AWS Certified Cloud Practitioner
+## 🎓 Certifications & Training
+
+- **AWS Certified Cloud Practitioner** 
+- **Practical Internet of Things (IoT)**
+- **MySQL – Beginner to Advanced**
+- **Fundamentals of Generative AI**
+- **Excel – Beginners Training**
 
 ---
 

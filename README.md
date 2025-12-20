@@ -1,4 +1,4 @@
-# Hi, I'm Mithra 👋
+u# Hi, I'm Mithra 👋
 
 🎓 Engineering Student | ☁️ Cloud Computing Intern  
 🏅 Certified AWS Cloud Practitioner  
@@ -33,6 +33,16 @@ Deployed an Ubuntu Virtual Machine on Microsoft Azure with secure terminal acces
 🔗 Repository:  
 https://github.com/Mithra-V/azure-ubuntu-vm-rdp-gui
 
+---
+## 💼 Internship Experience
+
+### 🔹 Python Development Intern – Cognifyz Technologies
+**Duration:** Oct 2025 – Nov 2025 | **Mode:** Remote
+
+- Completed a Python Development Internship focused on building strong programming fundamentals  
+- Worked on assigned Python tasks that improved logical thinking and problem-solving skills  
+- Demonstrated attention to detail and a strong willingness to learn new concepts  
+- Gained practical exposure to applying Python concepts in a structured learning environment.
 ---
 
 ## 🎯 Certifications

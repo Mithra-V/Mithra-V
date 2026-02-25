@@ -8,7 +8,7 @@ I am an engineering student with hands-on experience in cloud computing, working
 ---
 ## 💻 Programming & Problem Solving
 
-- - Actively practicing Java programming for placement-focused problem solving
+- Actively practicing Java programming for placement-focused problem solving
 - Solving array traversal and logic-building problems  
 - Implementing runtime input-based Java programs  
 - Applying Object-Oriented Programming concepts through coding practice  

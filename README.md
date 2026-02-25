@@ -6,21 +6,29 @@
 I am an engineering student with hands-on experience in cloud computing, working with **Microsoft Azure and AWS**. I enjoy learning cloud infrastructure, virtual machines, storage management, and basic automation while building practical projects.
 
 ---
+## 💻 Programming & Problem Solving
 
+- - Actively practicing Java programming for placement-focused problem solving
+- Solving array traversal and logic-building problems  
+- Implementing runtime input-based Java programs  
+- Applying Object-Oriented Programming concepts through coding practice  
+- Improving problem-solving skills through hands-on implementation  
+
+---
 ## 🔧 Skills & Technologies
 - Cloud Platforms: Microsoft Azure, AWS
 - Virtualization: Azure Virtual Machines
 - Operating Systems: Ubuntu Linux
 - Remote Access: SSH, RDP
 - Storage: Azure Blob Storage, Lifecycle Management
-- Programming: Python (basics & applied tasks)
+- Programming: Java (Placement Preparation), Python (Basics)
 
 ---
 
 ## 📌 Projects
 
 ### 🔹 Cost Optimization and Automated Resource Management in Microsoft Azure
-Implemented Azure Storage Lifecycle Management to automate data handling and optimize storage costs using lifecycle policies.
+Configured Azure Storage Lifecycle Management policies to automate data handling and optimize storage costs.
 
 🔗 Repository:  
 https://github.com/Mithra-V/azure-cost-optimization-lifecycle-management
@@ -56,8 +64,8 @@ https://github.com/Mithra-V/azure-ubuntu-vm-rdp-gui
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/mithra-v-0551bb33b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/mithra-v-0551bb33b
 
 ---
 
-⭐ I am continuously learning and improving my skills in cloud computing, Python, and infrastructure.
+⭐ ⭐ I am continuously improving my programming, problem-solving, and cloud computing skills through hands-on practice.
